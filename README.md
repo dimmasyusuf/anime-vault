@@ -1,9 +1,20 @@
-# Build Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+# Anime Vault
 
-![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+## Get Started
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
-
+1. Clone Repository
+   ```bash
+   git clone https://github.com/dimmasyusuf/anime-vault.git
+   ```
+2. Open Directory
+   ```bash
+   cd eventopia
+   ```
+3. Install Packages
+   ```bash
+   npm install
+   ```
+4. Start Server
+   ```bash
+   npm run dev
+   ```
